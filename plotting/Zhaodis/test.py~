@@ -1,2 +1,0 @@
-import uofccycletune
-uofccycletune.tune( do_tune_bolos = 1,  do_re_overbias_bolos = 1) 
